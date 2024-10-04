@@ -48,7 +48,7 @@ display: inline-block;
 	box-shadow: 3px 3px 10px white;
 }.des{
 	color: black;
-	font-family: sans-serif;
+	
 	height: 140px;
 	width: 100%;
 	text-align: left;
@@ -112,7 +112,7 @@ display:block;
 border-radius: 0px;
 }.des{
 	color: black;
-	font-family: sans-serif;
+
 	height: 150px;
 	width: 100%;
 	text-align: left;
