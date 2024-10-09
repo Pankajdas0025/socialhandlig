@@ -60,6 +60,7 @@ display: inline-block;
 	height: 80px;
 	background-color: dimgray;
 	width: 100%;
+	display:none;
 	bottom: 0;
 	position:relative;
 	margin-top:58px;
@@ -119,6 +120,7 @@ border-radius: 0px;
 	background-color: dimgray;
 	width:320px;
 	margin-top: 50%;
+		display:inline;
 	
 bottom: 0;
 position:fixed;
